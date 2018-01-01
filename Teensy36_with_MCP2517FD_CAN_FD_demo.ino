@@ -1,11 +1,11 @@
 /*
- * Teensy 3.2 with MCP2517FD CAN FD demo
- * http://skpang.co.uk/catalog/mcp2517fd-can-fd-breakout-with-teensy-include-teensy-32-p-1549.html
+ * Teensy 3.6 with MCP2517FD CAN FD demo
+ *http://skpang.co.uk/catalog/teensy-36-can-20b-and-can-fd-breakout-board-include-teensy-36-p-1550.html
  * 
  * Optional OLED display:
  * http://skpang.co.uk/catalog/oled-128x64-display-for-teensy-breakout-board-p-1508.html
  * 
- * v1.0 December 2017
+ * v1.0 Jan 2018
  * 
  * skpang.co.uk
  * 
